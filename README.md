@@ -6,4 +6,4 @@ My attempt to train a **_Python_** _turtle_ to make a piece of art worth million
 - [ ] retire
 
 ## Sample of the art
-![My Amazing Turtle's work](/AmazingArtwork.PNG)
+![My Amazing Turtle's work](AmazingArtwork.PNG)
